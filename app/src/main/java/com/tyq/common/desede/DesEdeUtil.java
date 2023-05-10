@@ -26,7 +26,7 @@ import timber.log.Timber;
 /**
  * 对接 接口参数 加密解密工具类
  *
- * @author rxj
+ * @author tyq
  *
  * <p>
  * //Base64.DEFAULT:这个参数是默认，使用默认的方法来加密,转换后的字符串带有换行符
