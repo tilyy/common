@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="RemoteRepositoriesConfiguration">
+    <remote-repository>
+      <option name="id" value="central" />
+      <option name="name" value="Maven Central repository" />
+      <option name="url" value="https://repo1.maven.org/maven2" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="bc5ad6bf-5ed0-4dba-9343-f39606ddda34" />
+      <option name="name" value="bc5ad6bf-5ed0-4dba-9343-f39606ddda34" />
+      <option name="url" value="https://repo1.maven.org/maven2" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="jboss.community" />
+      <option name="name" value="JBoss Community repository" />
+      <option name="url" value="https://repository.jboss.org/nexus/content/repositories/public/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="abb6d603-b8a5-41f0-a99d-f2e2caac1e2a" />
+      <option name="name" value="abb6d603-b8a5-41f0-a99d-f2e2caac1e2a" />
+      <option name="url" value="https://repository.jboss.org/nexus/content/repositories/public/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="f25b5bb2-0fbe-432b-b571-07f7922d2fe9" />
+      <option name="name" value="f25b5bb2-0fbe-432b-b571-07f7922d2fe9" />
+      <option name="url" value="https://maven.aliyun.com/repository/central" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="a21a2ba4-3062-4e30-b8c4-1e6fdf442a8e" />
+      <option name="name" value="a21a2ba4-3062-4e30-b8c4-1e6fdf442a8e" />
+      <option name="url" value="https://jitpack.io" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="e3c25f21-c95c-434b-b336-a1fb25c4545f" />
+      <option name="name" value="e3c25f21-c95c-434b-b336-a1fb25c4545f" />
+      <option name="url" value="https://maven.aliyun.com/nexus/content/repositories/gradle-plugin" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="4a2fc5bf-07e6-4c07-b7c0-0fddcb1f71a1" />
+      <option name="name" value="4a2fc5bf-07e6-4c07-b7c0-0fddcb1f71a1" />
+      <option name="url" value="https://maven.aliyun.com/nexus/content/repositories/google" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="f7a2273c-0c39-4823-8dbb-2d22097638db" />
+      <option name="name" value="f7a2273c-0c39-4823-8dbb-2d22097638db" />
+      <option name="url" value="https://maven.aliyun.com/nexus/content/groups/public/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="BintrayJCenter" />
+      <option name="name" value="BintrayJCenter" />
+      <option name="url" value="https://jcenter.bintray.com/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="Google" />
+      <option name="name" value="Google" />
+      <option name="url" value="https://dl.google.com/dl/android/maven2/" />
+    </remote-repository>
+  </component>
+</project>
