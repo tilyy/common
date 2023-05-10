@@ -3,13 +3,13 @@ plugins {
 }
 
 android {
-    compileSdkVersion 33
-    buildToolsVersion "33.0.2"
+    compileSdkVersion 28
 
     defaultConfig {
         applicationId "com.tyq.common"
         minSdkVersion 23
-        targetSdkVersion 33
+        //noinspection ExpiredTargetSdkVersion
+        targetSdkVersion 23
         versionCode 1
         versionName "1.0"
 
@@ -29,9 +29,32 @@ android {
 }
 
 dependencies {
-
     implementation 'androidx.appcompat:appcompat:1.1.0'
     implementation 'com.google.android.material:material:1.1.0'
+
+    api 'commons-net:commons-net:3.7.2'
+    api 'org.greenrobot:eventbus:3.1.1'
+
+    api 'com.jakewharton.timber:timber:4.7.1'
+
+    api 'com.squareup.okhttp3:okhttp:3.10.0'
+    api 'io.reactivex.rxjava2:rxandroid:2.0.1'
+    api 'io.reactivex.rxjava2:rxjava:2.0.1'
+
+    api 'org.apache.commons:commons-lang3:3.8'
+
+    api 'com.tencent:mmkv-static:1.2.7'
+
+    api 'org.projectlombok:lombok:1.18.8'
+    api group: 'io.netty', name: 'netty-all', version: '4.1.31.Final'
+
+    api 'com.google.code.gson:gson:2.10.1'
+    api 'com.google.zxing:core:3.3.0'
+
+    api 'com.github.bumptech.glide:glide:4.0.0'
+
+    api 'org.simple:androideventbus:1.0.5.1'
+
     testImplementation 'junit:junit:4.+'
     androidTestImplementation 'androidx.test.ext:junit:1.1.1'
     androidTestImplementation 'androidx.test.espresso:espresso-core:3.2.0'
